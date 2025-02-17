@@ -34,6 +34,8 @@ android {
         disable 'InvalidPackage'
     }
     buildToolsVersion '28.0.3'
+
+    namespace 'com.chavesgu.scan'
 }
 
 dependencies {
